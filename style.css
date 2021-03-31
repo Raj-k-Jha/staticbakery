@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.navbar-brand img{
+    height: 35px;
+    width: 28px;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+#demo img{
+    height: 800px;
+    width: 100%;
+    margin-top: -130px;
+}
+.vbg{
+    margin: 100px 0px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+ 
+  
+}
+.card-body {
+    text-align: center;
+  }
+  .card {
+    margin: 20px 0px;
+   
+  }
+ 
+  .card-text{
+    font-family: 'Quicksand', sans-serif; 
+  }
+  .card-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+        margin-bottom: 200px;
+  }
+  .container-fluid{
+      height: 300px;
+
+  }
+  .container-fluid h3 , p{
+margin: 70px;
+  }
+  .buttons{
+      background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.1) 50%,rgba(0,0,0,.1));
+      border-radius: 5px;
+      height: 300px;
+      width: 100vw;
+      text-align: center;
+      margin-top: 80px;
+  }
+  .hr{
+    overflow: visible; 
+    height: 20px;
+    border-style: dotted;
+    border-color: rgb(167, 0, 0);
+    border-width: 0.5px 0 0 0;
+    border-radius: 20px;
+    
+}
+.lastimg{
+   
+    border-radius: 30px;
+}
+.lastimg img{
+height: 800px;
+width: 100vw;
+}
+
+footer{
+    height: 65px;
+}
+footer div i{
+    text-align: center;
+align-items: center;
+}
