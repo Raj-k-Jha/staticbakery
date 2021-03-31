@@ -4,7 +4,8 @@
 
 }
 marquee{
- font-family: 'Patua One', cursive;   
+ font-family: 'Patua One', cursive;  
+    background-color:#f0efeb;
 }
 
 .navbar-brand img{
