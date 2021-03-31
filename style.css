@@ -3,6 +3,9 @@
     padding: 0px;
 
 }
+marquee{
+ font-family: 'Patua One', cursive;   
+}
 
 .navbar-brand img{
     height: 35px;
